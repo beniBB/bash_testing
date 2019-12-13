@@ -1,5 +1,5 @@
 # Done For CSP2101 Scripting languages 
-# by Benitro )
+# by Benitro 
 
 # A sample menu display, Bash script
 
@@ -20,7 +20,7 @@ echo 7.Exit
 echo "Input Your Preference number (Eg : ./Createmenu.sh 1) next line."
 
 # color code to variables
-Black='\033[30m'
+White='\033[1;37m'
 Red='\033[31m'
 Green='\033[32m'
 Brown='\033[33m'
@@ -30,7 +30,7 @@ Cyan='\033[36m'
 
 #checking the condition values with user input and execute
 if [ "$1" = "1" ]; then
-    echo -e "${Black}You Are Registered"
+    echo -e "${White}You Are Registered"
 elif [ "$1" = "2" ]; then
     echo -e "${Red}Details Saved"
 elif [ "$1" = "3" ]; then
