@@ -1,0 +1,7 @@
+ Rec1, 2, 3, 6, Red
+ Rec2, 4, 6, 12, Orange
+ Rec3, 6, 9, 54, Yellow
+ Rec4, 8, 12, 96, Red
+ Rec5, 10, 15, 150, Blue
+ Rec6, 12, 18, 216, Red
+ Rec7, 14, 21, 294, Black

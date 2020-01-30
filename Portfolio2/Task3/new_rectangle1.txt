@@ -1,0 +1,7 @@
+Name: Rec1 Height: 2 Width: 3 Area: 6 Color: Red
+Name: Rec2 Height: 4 Width: 6 Area: 12 Color: Orange
+Name: Rec3 Height: 6 Width: 9 Area: 54 Color: Yellow
+Name: Rec4 Height: 8 Width: 12 Area: 96 Color: Red
+Name: Rec5 Height: 10 Width: 15 Area: 150 Color: Blue
+Name: Rec6 Height: 12 Width: 18 Area: 216 Color: Red
+Name: Rec7 Height: 14 Width: 21 Area: 294 Color: Black
